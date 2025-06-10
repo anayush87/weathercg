@@ -1,13 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# create a readne for github
-
-for this
-
-Certainly! Here’s a professional and clear **README.md** for your Weather Dashboard Tkinter project, ready for GitHub:
-
----
-
 # Weather Dashboard - Color \& Lighting Models
 
 A visually engaging weather dashboard built with Python and Tkinter, demonstrating the use of color and lighting models for different weather conditions. The dashboard displays current weather information, a 5-day forecast, and interactive features such as theme switching and simulated data refresh.
@@ -111,20 +101,6 @@ MIT License
 
 ---
 
-## Author
-
-[Your Name]
-[Your GitHub Profile Link]
-
----
-
 **Enjoy exploring weather and color models with this interactive dashboard!**
 
 ---
-
-*Feel free to customize the author, repository URL, and add screenshots or badges as needed.*
-
-<div style="text-align: center">⁂</div>
-
-[^1]: paste.txt
-
